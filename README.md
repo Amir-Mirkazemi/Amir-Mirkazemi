@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey 👋, I'm Amir Mirkazemi!
 
-<!--
-**Amir-Mirkazemi/Amir-Mirkazemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Engineer and easily adapt to different hats (Data Scientist , ML Engineer or beginner level Designer ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+<br/>
+### 🧐 More About Me:
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; I’m currently working at **CreditOneBank - Data Engineer**
+- 🌱 &nbsp; I’m currently learning R language; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Amir-Mirkazemi?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/Amir-Mirkazemi/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![Amir-Mirkazemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-Mirkazemi)](https://github.com/Amir-Mirkazemi/github-readme-stats)
