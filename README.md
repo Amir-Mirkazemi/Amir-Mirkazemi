@@ -14,4 +14,6 @@ I am a Data Engineer and easily adapt to different hats (Data Scientist , ML Eng
 
 <br>
 
-[![Amir-Mirkazemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-Mirkazemi)](https://github.com/Amir-Mirkazemi/github-readme-stats)
+<!-- [![Amir-Mirkazemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-Mirkazemi)](https://github.com/Amir-Mirkazemi/github-readme-stats) -->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Mirkazemi&layout=compact&theme=transparent)
