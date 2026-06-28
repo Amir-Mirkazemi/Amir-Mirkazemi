@@ -1,19 +1,38 @@
-## Hey 👋, I'm Amir Mirkazemi!
+# Amir Mirkazemi
 
-I love finding patterns in data and building the pipelines to move them. I easily wear multiple hats, transitioning between Data Engineering and Data Science and analytics, depending on the project's needs. I’m constantly exploring new tech stacks 💻 and leveraging them to build cool, data-driven solutions 🛠️.
-<br/>
-<br/>
-### 🧐 More About Me:
+Data Engineer focused on Snowflake ingestion, Apache Airflow workflows, SQL validation, audit tables, and reporting-ready datasets.
 
-- 🔭 &nbsp; I’m currently working at **CreditOneBank - Data Engineer**
-- 🌱 &nbsp; Currently mastering **R** to bridge my engineering and statistical modeling skills. 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Amir-Mirkazemi?tab=repositories)
-- 💬 &nbsp; Happy to help! Ask me anything about Python, SQL, or cloud data architecture;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/Amir-Mirkazemi/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+Portfolio: [amirdata.com](https://amirdata.com)  
+LinkedIn: [linkedin.com/in/amir-mirkazemi](https://www.linkedin.com/in/amir-mirkazemi/)  
+GitHub: [github.com/Amir-Mirkazemi](https://github.com/Amir-Mirkazemi)
 
-<br>
+## About
 
-<!-- [![Amir-Mirkazemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-Mirkazemi)](https://github.com/Amir-Mirkazemi/github-readme-stats) -->
+I build data pipelines and validation workflows that move operational data into trusted reporting systems. My background spans data engineering, data analysis, and enterprise IT support, so I care about both the pipeline design and the teams who depend on the output.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Mirkazemi&layout=compact&theme=transparent)
+## Current Focus
+
+- Snowflake ingestion pipelines
+- Python-based Airflow DAGs
+- SQL validation and audit tables
+- ETL automation with APIs and scheduled jobs
+- Reporting-ready datasets for BI teams
+
+## Featured Work
+
+- [Data Engineer Portfolio](https://github.com/Amir-Mirkazemi/amir-data-engineer-portfolio)  
+  Personal portfolio built with Next.js and deployed at [amirdata.com](https://amirdata.com).
+
+- [Weather ETL Pipeline](https://github.com/Amir-Mirkazemi/weather-ETL-pipeline)  
+  Python ETL pipeline that extracts live weather data, transforms it, and loads structured records into SQLite on an automated schedule.
+
+- [Stock Trading Web Application](https://github.com/Amir-Mirkazemi/ift401group4)  
+  Flask and MySQL application with trade execution logic, role-aware access, portfolio tracking, and SQLAlchemy persistence.
+
+## Technical Stack
+
+Python, SQL, Snowflake, Apache Airflow, Oracle, SQL Server, PostgreSQL, MySQL, AWS, Power BI, Tableau, GitLab, GitHub Actions
+
+## GitHub Activity
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Mirkazemi&layout=compact&theme=transparent)
