@@ -26,7 +26,7 @@ I build data pipelines and validation workflows that move operational data into 
 - [Weather ETL Pipeline](https://github.com/Amir-Mirkazemi/weather-ETL-pipeline)  
   Python ETL pipeline that extracts live weather data, transforms it, and loads structured records into SQLite on an automated schedule.
 
-- [Stock Trading Web Application](https://github.com/Amir-Mirkazemi/ift401group4)  
+- [Stock Trading Web Application](https://github.com/Amir-Mirkazemi/ift401group4) - Group Project  
   Flask and MySQL application with trade execution logic, role-aware access, portfolio tracking, and SQLAlchemy persistence.
 
 ## Technical Stack
