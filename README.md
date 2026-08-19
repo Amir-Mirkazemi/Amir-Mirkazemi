@@ -1,6 +1,6 @@
 # Amir Mirkazemi
 
-Data Engineer focused on Snowflake ingestion, Apache Airflow workflows, SQL validation, audit tables, and reporting-ready datasets.
+Building toward AI/ML infrastructure on top of production data engineering.
 
 Portfolio: [amirdata.com](https://amirdata.com)  
 LinkedIn: [linkedin.com/in/amir-mirkazemi](https://www.linkedin.com/in/amir-mirkazemi/)  
