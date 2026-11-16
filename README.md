@@ -18,6 +18,11 @@ I build and maintain metadata-driven data pipelines that move operational data i
 - Data quality validation with Great Expectations
 - Metadata-driven pipeline configuration and automation
 
+### Currently building
+**[Pitchline Live](https://github.com/Amir-Mirkazemi/pitchline-live)**: a multi-league soccer data pipeline
+(Python, GitHub Actions, AWS S3). It reconciles every parsed match against ESPN's own boxscore totals;
+110 of 110 Premier League matches reconcile so far. Work in progress.
+
 ## Featured Work
 
 - [Data Engineer Portfolio](https://github.com/Amir-Mirkazemi/amir-data-engineer-portfolio)  
